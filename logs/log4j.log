@@ -1,0 +1,25 @@
+2019-01-08 17:19:40 DEBUG DiscountRuleEngineServiceImpl:39 - UserType======>UNKNOWN
+2019-01-08 17:19:40 DEBUG DiscountRuleEngineServiceImpl:40 - discountAmount===>>0.0
+2019-01-08 19:50:42 DEBUG DiscountRuleEngineServiceImpl:38 - UserType======>UNKNOWN
+2019-01-08 19:50:42 DEBUG DiscountRuleEngineServiceImpl:39 - discountAmount===>>0.0
+2019-01-08 19:50:42 DEBUG MainClass:29 - PayableAmount====>>50.0
+2019-01-08 20:53:27 DEBUG DiscountRuleEngineServiceImpl:38 - UserType======>AFFILIATE
+2019-01-08 20:53:27 DEBUG DiscountRuleEngineServiceImpl:39 - discountAmount===>>15.0
+2019-01-08 20:53:27 DEBUG DiscountRuleEngineServiceImpl:38 - UserType======>EMPLOYEE
+2019-01-08 20:53:27 DEBUG DiscountRuleEngineServiceImpl:39 - discountAmount===>>175.0
+2019-01-08 20:53:27 DEBUG DiscountRuleEngineServiceImpl:38 - UserType======>UNKNOWN
+2019-01-08 20:53:27 DEBUG DiscountRuleEngineServiceImpl:39 - discountAmount===>>0.0
+2019-01-08 20:53:27 ERROR DiscountRuleEngineTest:100 - Transaction Number should not be blank.
+2019-01-08 20:53:27 ERROR DiscountRuleEngineTest:85 - Billed amount should be a positive number.
+2019-01-08 20:53:27 DEBUG DiscountRuleEngineServiceImpl:38 - UserType======>LOYAL
+2019-01-08 20:53:27 DEBUG DiscountRuleEngineServiceImpl:39 - discountAmount===>>30.0
+2019-01-09 12:53:16 DEBUG DiscountRuleEngineServiceImpl:38 - UserType======>AFFILIATE
+2019-01-09 12:53:16 DEBUG DiscountRuleEngineServiceImpl:39 - discountAmount===>>15.0
+2019-01-09 12:53:16 DEBUG DiscountRuleEngineServiceImpl:38 - UserType======>EMPLOYEE
+2019-01-09 12:53:16 DEBUG DiscountRuleEngineServiceImpl:39 - discountAmount===>>175.0
+2019-01-09 12:53:16 DEBUG DiscountRuleEngineServiceImpl:38 - UserType======>UNKNOWN
+2019-01-09 12:53:16 DEBUG DiscountRuleEngineServiceImpl:39 - discountAmount===>>0.0
+2019-01-09 12:53:16 ERROR DiscountRuleEngineTest:100 - Transaction Number should not be blank.
+2019-01-09 12:53:16 ERROR DiscountRuleEngineTest:85 - Billed amount should be a positive number.
+2019-01-09 12:53:16 DEBUG DiscountRuleEngineServiceImpl:38 - UserType======>LOYAL
+2019-01-09 12:53:16 DEBUG DiscountRuleEngineServiceImpl:39 - discountAmount===>>30.0
